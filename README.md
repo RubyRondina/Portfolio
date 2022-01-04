@@ -1,2 +1,2 @@
 # Portfolio
-A compilation of projects so far
+A compilation of my data analytics projects thus far
