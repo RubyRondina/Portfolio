@@ -38,4 +38,4 @@ An analysis on a possible correlation between enrolment numbers and covid cases 
 ## Project 5: Google Analytics, Google Merchandise Ecommerce Store
 **Python, SQL, BigQuery, Tableau**
 
-This is my capstone project for bootcamp where I explored different variables in the the Google Analytics Sample Dataset housed on BigQuery Publiuc, to see which variables, if any, had an effect on Total Global Revenue for the December 2016 and January 2017 time period.
+This is my capstone project for bootcamp where I explored different variables in the the Google Analytics Sample Dataset housed on BigQuery Public, to see which variables, if any, had an effect on Total Global Revenue for the December 2016 and January 2017 time period.
