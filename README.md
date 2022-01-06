@@ -7,7 +7,7 @@ You can also see my **Tableau Public** [here](https://public.tableau.com/app/pro
 
 And connect with me on [**LinkedIn**](https://www.linkedin.com/in/ruby-rondina-39315a16/)
 
-## Project 1: Extinct Languages
+## [Project 1: Extinct Languages](https://github.com/RubyRondina/Project-1--Extinct-Languages)
 **Tableau, Google Sheets**
 
 A study on the world's extinct, endangered and vulnerable languages.  
