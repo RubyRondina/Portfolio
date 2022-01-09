@@ -23,7 +23,7 @@ My hypothesis is that most of them come from former British and Spanish colonies
 A group project in Juno College's Data Analytics Bootcamp where we have to investigate a mobile game company's player retention. Of specific interest is counting rolling 30-day retention and expressing it as a fraction of the total playerbase at the time, as well as calculating retention by age group.
 
 
-### Project 3: Foreign Aide in the New Millenium
+### [Project 3: Foreign Aide in the New Millenium](https://github.com/RubyRondina/Foreign-Aid)
 **Tableau, Google Sheets**
 
 A study on the world's top donors and recipients of foreign aide in terms of dollar value and percentage of gross national income (GNI), as well as a brief investigation on Canada's foreign aide contribution and flows since the year 2000.
