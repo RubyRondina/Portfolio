@@ -29,7 +29,7 @@ A group project in Juno College's Data Analytics Bootcamp where we have to inves
 A study on the world's top donors and recipients of foreign aide in terms of dollar value and percentage of gross national income (GNI), as well as a brief investigation on Canada's foreign aide contribution and flows since the year 2000.
 
 
-### Project 4: Covid-19 in Ontario Public Schools
+### [Project 4: Covid-19 in Ontario Public Schools](https://github.com/RubyRondina/Python-Project---Covid-Cases-In-Ontario-Schools)
 **Python**
 
 An analysis on a possible correlation between enrolment numbers and covid cases in Ontario public schools.  This study was done prior to the emergence of the Omicron variant.
