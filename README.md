@@ -38,4 +38,4 @@ An analysis on a possible correlation between high enrolment numbers and high co
 ### [Project 5: Google Analytics, Google Merchandise E-commerce Store](https://github.com/RubyRondina/CapstoneProject)
 **Python, SQL, BigQuery, Tableau**
 
-A bootcamp capstone project to explored different variables in the the Google Analytics Sample Dataset housed on BigQuery Public, to see which variables, if any, had an effect on Total Global Revenue for the December 2016 and January 2017 time period.
+A bootcamp capstone project to explore different variables in the the Google Analytics Sample Dataset housed on BigQuery Public, to see which variables, if any, had an effect on Total Global Revenue for the December 2016 and January 2017 time period.
