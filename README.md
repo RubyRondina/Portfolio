@@ -23,19 +23,19 @@ My hypothesis is that most of them come from former British and Spanish colonies
 A group project in Juno College's Data Analytics Bootcamp where we have to investigate a mobile game company's player retention. Of specific interest is counting rolling 30-day retention and expressing it as a fraction of the total playerbase at the time, as well as calculating retention by age group.
 
 
-### [Project 3: Foreign Aide in the New Millenium](https://github.com/RubyRondina/Foreign-Aid)
+### [Project 3: Foreign Aid in the New Millenium](https://github.com/RubyRondina/Foreign-Aid)
 **Tableau, Google Sheets**
 
-A study on the world's top donors and recipients of foreign aide in terms of dollar value and percentage of gross national income (GNI), as well as a brief investigation on Canada's foreign aide contribution and flows since the year 2000.
+A study on the world's top donors and recipients of foreign aid in terms of dollar value and percentage of gross national income (GNI), as well as a brief investigation on Canada's foreign aid contribution and flows since the year 2000.
 
 
 ### [Project 4: Covid-19 in Ontario Public Schools](https://github.com/RubyRondina/Python-Project---Covid-Cases-In-Ontario-Schools)
 **Python**
 
-An analysis on a possible correlation between enrolment numbers and covid cases in Ontario public schools.  This study was done prior to the emergence of the Omicron variant.
+An analysis on a possible correlation between high enrolment numbers and high covid cases in Ontario public schools.  This study was done prior to the emergence of the Omicron variant.
 
 
-### [Project 5: Google Analytics, Google Merchandise Ecommerce Store](https://github.com/RubyRondina/CapstoneProject)
+### [Project 5: Google Analytics, Google Merchandise E-commerce Store](https://github.com/RubyRondina/CapstoneProject)
 **Python, SQL, BigQuery, Tableau**
 
-This is my capstone project for bootcamp where I explored different variables in the the Google Analytics Sample Dataset housed on BigQuery Public, to see which variables, if any, had an effect on Total Global Revenue for the December 2016 and January 2017 time period.
+A bootcamp capstone project to explored different variables in the the Google Analytics Sample Dataset housed on BigQuery Public, to see which variables, if any, had an effect on Total Global Revenue for the December 2016 and January 2017 time period.
