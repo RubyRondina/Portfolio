@@ -35,7 +35,7 @@ A study on the world's top donors and recipients of foreign aide in terms of dol
 An analysis on a possible correlation between enrolment numbers and covid cases in Ontario public schools.  This study was done prior to the emergence of the Omicron variant.
 
 
-### Project 5: Google Analytics, Google Merchandise Ecommerce Store
+### [Project 5: Google Analytics, Google Merchandise Ecommerce Store](https://github.com/RubyRondina/CapstoneProject)
 **Python, SQL, BigQuery, Tableau**
 
 This is my capstone project for bootcamp where I explored different variables in the the Google Analytics Sample Dataset housed on BigQuery Public, to see which variables, if any, had an effect on Total Global Revenue for the December 2016 and January 2017 time period.
