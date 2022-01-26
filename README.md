@@ -3,7 +3,7 @@ Thank you for visiting my portfolio!  Please feel free to explore my projects be
 
 You can also view interactive visualizations on my [**Tableau Public**](https://public.tableau.com/app/profile/ruby.rondina) and connect with me on [**LinkedIn**](https://www.linkedin.com/in/ruby-rondina-39315a16/)
 
-### [Project 1: Extinct Languages](https://github.com/RubyRondina/Project-1--Extinct-Languages)
+### [Project 1: Extinct Languages - An investigation of the effects of colonization](https://github.com/RubyRondina/Project-1--Extinct-Languages)
 **Tableau, Google Sheets**
 
 A study on the world's extinct, endangered and vulnerable languages.  Where in the globe are these languages located?  My hypothesis is that most of them come from former British and Spanish colonies.  Let's see if that is indeed the case.
