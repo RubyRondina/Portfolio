@@ -12,7 +12,7 @@ A study on the world's extinct, endangered and vulnerable languages.  Where in t
 ### [Project 2: Rolling 30-day retention](https://github.com/RubyRondina/SQL_Project_30DayRetention)
 **SQL, BigQuery, Google Sheets**
 
-A group project in Juno College's Data Analytics Bootcamp where we have to investigate a mobile game company's player retention. Of specific interest is counting rolling 30-day retention and expressing it as a fraction of the total playerbase at the time, as well as calculating retention by age group.
+Investigating a mobile game company’s player retention.  Of specific interest is counting rolling 30-day retention and expressing it as a fraction of the total playerbase at the time, as well as calculating retention by age group.
 
 
 ### [Project 3: Foreign Aid in the New Millenium](https://github.com/RubyRondina/Foreign-Aid)
@@ -30,4 +30,4 @@ An analysis on a possible correlation between high enrolment numbers and high co
 ### [Project 5: Google Analytics, Google Merchandise E-commerce Store](https://github.com/RubyRondina/CapstoneProject)
 **Python, SQL, BigQuery, Tableau**
 
-A bootcamp capstone project to explore different variables in the the Google Analytics Sample Dataset housed on BigQuery Public, to see which variables, if any, had an effect on Total Global Revenue for the December 2016 and January 2017 time period.
+An exploration on the different variables in the Google Analytics Sample Dataset housed on BigQuery Public, to see which variables, if any, had an effect on Total Global Revenue for the December 2016 and January 2017 time period.
