@@ -1,20 +1,12 @@
 # Portfolio
-Thank you for clicking on my portfolio!  
-Please feel free to explore my projects below.  
-I hope they take you through a fascinating journey of data and new insights!
+Thank you for visiting my portfolio!  Please feel free to explore my projects below – I hope they take you through a fascinating data journey, and uncover new insights for you!
 
-You can also see my **Tableau Public** [here](https://public.tableau.com/app/profile/ruby.rondina) 
-
-And connect with me on [**LinkedIn**](https://www.linkedin.com/in/ruby-rondina-39315a16/)
+You can also view interactive visualizations on my [**Tableau Public**](https://public.tableau.com/app/profile/ruby.rondina) and connect with me on [**LinkedIn**](https://www.linkedin.com/in/ruby-rondina-39315a16/)
 
 ### [Project 1: Extinct Languages](https://github.com/RubyRondina/Project-1--Extinct-Languages)
 **Tableau, Google Sheets**
 
-A study on the world's extinct, endangered and vulnerable languages.  
-
-Where in the globe are these languages located?
-
-My hypothesis is that most of them come from former British and Spanish colonies.  Let's see if that is indeed the case.
+A study on the world's extinct, endangered and vulnerable languages.  Where in the globe are these languages located?  My hypothesis is that most of them come from former British and Spanish colonies.  Let's see if that is indeed the case.
 
 
 ### [Project 2: Rolling 30-day retention](https://github.com/RubyRondina/SQL_Project_30DayRetention)
